@@ -1,5 +1,5 @@
 
-STM32/.metadata/*
+.metadata/*
 STM32/main.c
 STM32/hello_world/HelloWord.launch
 STM32/debugging_test/debugging_test.launch
