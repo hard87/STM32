@@ -1,0 +1,10 @@
+13:04:12 **** Incremental Build of configuration Debug for project HelloWord ****
+make -j4 all 
+arm-none-eabi-size   HelloWord.elf 
+   text	   data	    bss	    dec	    hex	filename
+   3768	    108	   1588	   5464	   1558	HelloWord.elf
+Finished building: default.size.stdout
+ 
+
+13:04:12 Build Finished. 0 errors, 0 warnings. (took 444ms)
+
